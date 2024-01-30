@@ -1,1 +1,3 @@
 # OpeniumOS
+
+Hello everyone, I am creating my own Linux for everyone. This is a system for anyone who wants to feel the freedom of an operating system and not have to pay for it! prepares software for this system for home use. the Windows program emulator in the exe extension will be prepared and ready to run!
